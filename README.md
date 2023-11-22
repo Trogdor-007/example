@@ -1,2 +1,2 @@
 # example
-go example
+go example greetings module
